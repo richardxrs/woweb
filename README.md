@@ -1,2 +1,2 @@
-# xrs.github.com
+# WoW Website
 WoW Personal Website 
